@@ -1,4 +1,5 @@
 # eacl-2021-virtual-conference-images
+[![Deploy images to AWS S3](https://github.com/acl-org/eacl-2021-virtual-conference-images/actions/workflows/deploy_aws.yml/badge.svg)](https://github.com/acl-org/eacl-2021-virtual-conference-images/actions/workflows/deploy_aws.yml)
 
 This repo contains images used for the EACL2021 virtual conference website https://virtual2021.eacl.org. These images are automatically published to a AWS S3 bucket.
 
